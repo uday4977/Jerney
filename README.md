@@ -173,7 +173,7 @@ The Vite dev server starts on `http://localhost:3000` and proxies `/api` request
 | Branch | Purpose |
 |--------|---------|
 | `main` | Source code + EC2 bare-metal deployment |
-| `devops` | Full DevSecOps — Docker, Kubernetes (EKS), Terraform, CI/CD pipeline, security scanning |
+| `devops` | Full DevSecOps — Docker, Kubernetes (EKS), Terraform, CI/CD pipeline, security scannings |
 
 ---
 
